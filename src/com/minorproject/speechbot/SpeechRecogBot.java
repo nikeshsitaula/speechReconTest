@@ -53,9 +53,7 @@ public class SpeechRecogBot {
 		// Action Listener for Info Button
 		btnInfo.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
-	        JOptionPane.showMessageDialog(null, "<html><center><h3>Minor Project on Speech Recognition Bot</h3>"
-	        		+ "</center><br/>A Minor Project research on Speech Recognition Technology by Nikesh Sitaula <br/>"
-	        		+ "  </html>");
+	        JOptionPane.showMessageDialog(null, "<html><center><h3>Minor Project on Speech Recognition Bot</h3>"+ "</center><br/>A Minor Project research on Speech Recognition Technology by Nikesh Sitaula <br/>"+ "  </html>");
 	            }
 	        });
 		
