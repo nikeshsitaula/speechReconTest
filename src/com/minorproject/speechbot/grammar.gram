@@ -1,0 +1,14 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar for Speech Recognition Bot
+ */
+
+grammar hello;
+public <greet> = (hey )  (computer);
+public <command> = ( open | save | insert | design | layout) (word | file | menu);
+public <exit> = ( close );
+public <dir> = (move) ( up | down | right | left);
+public <actions> = ( ok | enter );
+public <screen> = ( print ) ( file | screen );
+public<end>=(goodbye) (computer);

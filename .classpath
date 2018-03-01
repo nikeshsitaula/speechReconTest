@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/sphinx4-1.0beta6-bin/sphinx4-1.0beta6/lib/ant-contrib-0.6.jar"/>
+	<classpathentry kind="lib" path="D:/sphinx4-1.0beta6-bin/sphinx4-1.0beta6/lib/batch.jar"/>
+	<classpathentry kind="lib" path="D:/sphinx4-1.0beta6-bin/sphinx4-1.0beta6/lib/js.jar"/>
+	<classpathentry kind="lib" path="D:/sphinx4-1.0beta6-bin/sphinx4-1.0beta6/lib/jsapi-1.0-base.jar"/>
+	<classpathentry kind="lib" path="D:/sphinx4-1.0beta6-bin/sphinx4-1.0beta6/lib/junit-4.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/sphinx4-1.0beta6-bin/sphinx4-1.0beta6/lib/sphinx4.jar"/>
+	<classpathentry kind="lib" path="D:/sphinx4-1.0beta6-bin/sphinx4-1.0beta6/lib/tags.jar"/>
+	<classpathentry kind="lib" path="D:/sphinx4-1.0beta6-bin/sphinx4-1.0beta6/lib/TIDIGITS_8gau_13dCep_16k_40mel_130Hz_6800Hz.jar"/>
+	<classpathentry kind="lib" path="D:/sphinx4-1.0beta6-bin/sphinx4-1.0beta6/lib/WSJ_8gau_13dCep_8kHz_31mel_200Hz_3500Hz.jar"/>
+	<classpathentry kind="lib" path="D:/sphinx4-1.0beta6-bin/sphinx4-1.0beta6/lib/WSJ_8gau_13dCep_16k_40mel_130Hz_6800Hz.jar"/>
+	<classpathentry kind="lib" path="D:/sphinx4-1.0beta6-bin/sphinx4-1.0beta6/bin/Aligner.jar"/>
+	<classpathentry kind="lib" path="D:/sphinx4-1.0beta6-bin/sphinx4-1.0beta6/bin/AudioTool.jar"/>
+	<classpathentry kind="lib" path="D:/sphinx4-1.0beta6-bin/sphinx4-1.0beta6/bin/ClassBased.jar"/>
+	<classpathentry kind="lib" path="D:/sphinx4-1.0beta6-bin/sphinx4-1.0beta6/bin/Confidence.jar"/>
+	<classpathentry kind="lib" path="D:/sphinx4-1.0beta6-bin/sphinx4-1.0beta6/bin/Dialog.jar"/>
+	<classpathentry kind="lib" path="D:/sphinx4-1.0beta6-bin/sphinx4-1.0beta6/bin/FeatureValueDemo.jar"/>
+	<classpathentry kind="lib" path="D:/sphinx4-1.0beta6-bin/sphinx4-1.0beta6/bin/HelloNGram.jar"/>
+	<classpathentry kind="lib" path="D:/sphinx4-1.0beta6-bin/sphinx4-1.0beta6/bin/HelloWorld.jar"/>
+	<classpathentry kind="lib" path="D:/sphinx4-1.0beta6-bin/sphinx4-1.0beta6/bin/JSGFDemo.jar"/>
+	<classpathentry kind="lib" path="D:/sphinx4-1.0beta6-bin/sphinx4-1.0beta6/bin/LatticeDemo.jar"/>
+	<classpathentry kind="lib" path="D:/sphinx4-1.0beta6-bin/sphinx4-1.0beta6/bin/LiveConnectDemo.jar"/>
+	<classpathentry kind="lib" path="D:/sphinx4-1.0beta6-bin/sphinx4-1.0beta6/bin/Raw.jar"/>
+	<classpathentry kind="lib" path="D:/sphinx4-1.0beta6-bin/sphinx4-1.0beta6/bin/Transcriber.jar"/>
+	<classpathentry kind="lib" path="D:/sphinx4-1.0beta6-bin/sphinx4-1.0beta6/bin/ZipCity.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
